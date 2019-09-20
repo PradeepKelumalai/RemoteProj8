@@ -1,0 +1,13 @@
+Entering, Deleting, and Changing Text
+
+    From Command Mode
+  
+    i    Enter text entry mode
+  
+    x    Delete a character
+  
+    dd   Delete a line
+  
+    r    Replace a character
+  
+    R    Overwrite text, press <Esc> to end
